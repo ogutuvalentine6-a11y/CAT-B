@@ -1,3 +1,8 @@
+/*
+Name: VALENTINE OTIENO OGUTO
+Reg:PA106/28813/25
+Discribtion:simple a arrey
+*/
 #include <stdio.h>
 int main(){
 	int a,b,c,scores[2][2]={
@@ -15,4 +20,5 @@ int main(){
 	}
 
 return 0;
+
 }
